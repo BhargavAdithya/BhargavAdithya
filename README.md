@@ -92,8 +92,10 @@ const bhargav = {
 
 ## 📊 GitHub Statistics
 
+<img width= 49% src="https://github-readme-stats.vercel.app/api?username=BhargavAdithya&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=BhargavAdithya&theme=radical&hide_border=true" />
 
+<img width= 49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavAdithya&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=BhargavAdithya&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
 
 </div>
