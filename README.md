@@ -161,16 +161,6 @@ Building robust, scalable infrastructure on AWS and GCP. Microservices, APIs, an
 
 <div align="center">
 
-## 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Show some ❤️ by starring some repositories!
+### Show some ❤️ by starring some repositories!
 
 </div>
