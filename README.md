@@ -90,13 +90,61 @@ const bhargav = {
 
 <div align="center">
 
-## 📊 GitHub Statistics
+## 🎨 What I'm Building
 
-<img width= 49% src="https://github-readme-stats.vercel.app/api?username=BhargavAdithya&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true">
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=BhargavAdithya&theme=radical&hide_border=true" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img width= 49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavAdithya&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=BhargavAdithya&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🧠 AI That Thinks
+Building intelligent systems that learn, adapt, and solve real problems. From neural networks to machine learning pipelines, I create AI that makes a difference.
+
+</td>
+<td width="50%">
+
+### 🌐 Web That Wows
+Crafting beautiful, responsive web experiences that users love. Full-stack magic with modern frameworks and cutting-edge design.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Data That Speaks
+Turning raw data into compelling stories. Visualization, analysis, and insights that drive decisions.
+
+</td>
+<td width="50%">
+
+### ☁️ Cloud That Scales
+Deploying robust, scalable solutions in the cloud. Building infrastructure that grows with your needs.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 The Developer's Mindset
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+```python
+while (alive):
+    eat()
+    sleep()
+    code()
+    repeat()
+```
+
+### 💡 My Philosophy
+**Learn. Build. Share. Repeat.** | Always curious, forever learning, constantly creating.
 
 </div>
 
