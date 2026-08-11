@@ -1,167 +1,100 @@
 <div align="center">
 
-# 👋 Hi, I'm Bhargav Adithya
+# Chandu Bhargav Adithya
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full+Stack+Developer;Data+Science+Enthusiast" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0969DA&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full+Stack+Developer;Data+Science+Enthusiast" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0969DA&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full+Stack+Developer;Data+Science+Enthusiast" />
-</picture>
+**Software Engineer · AI/ML & Full-Stack Development**
+
+Vijayawada, India · [LinkedIn](https://linkedin.com/in/chandu-bhargav-adithya-5752792a0) · [Email](mailto:bhargavshorinryu03@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-```javascript
-const bhargav = {
-    currentFocus: ["AI/ML Projects", "Intelligent Applications"],
-    collaborateOn: ["AI-powered Systems", "Full-stack Development"],
-    learning: ["Advanced ML Techniques", "Modern Web Technologies"],
-    askMeAbout: ["AI/ML", "Web Development", "Data Science"],
-    funFact: "I love combining AI with real-world applications 🤖"
-};
-```
+Final-year B.Tech Information Technology student (VR Siddhartha Engineering College, 2022–2026) building full-stack applications with AI/ML systems embedded in them — not bolted on top. Comfortable across the stack: FastAPI/Flask and Node.js on the backend, React/Next.js on the frontend, and PyTorch/TensorFlow/LangChain for the model and RAG layers in between.
 
-<div align="center">
+Research experience in deep learning for satellite imagery (published at Springer's SPIN 2025), an internship building autonomous navigation for a drone platform, and a stack of self-directed projects that go from raw idea to deployed product — trained models, working APIs, and live URLs, not just notebooks.
 
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandu-bhargav-adithya-5752792a0)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhargav__37)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargavshorinryu03@gmail.com)
-
-</div>
+Looking for **Software Engineer**, **AI/ML Engineer**, or **Full-Stack Engineer** roles where I can work across the model-to-product pipeline.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Languages:** Python · Java · JavaScript · C++
 
-### 🎨 Frontend Development
-![ReactJS](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Full-Stack:** React, Next.js, Node.js, FastAPI, Flask, REST APIs, Tailwind CSS
 
-### ⚙️ Backend Development
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Machine Learning / AI:** PyTorch, TensorFlow, Keras, scikit-learn, CNNs, U-Net, OpenCV, LangChain, LangGraph, RAG pipelines
 
-### 🤖 Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+**Data & Infra:** MongoDB, MySQL, PostgreSQL, Neo4j, Docker, AWS, CI/CD, Vercel, Render
 
-### 🧠 LLMs & NLP
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-FF4B4B?style=for-the-badge&logo=anthropic&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+**Core CS:** Data Structures & Algorithms, OOP, System Design, Git, Linux
 
 ---
 
-<div align="center">
+## Selected Projects
 
-## 🎨 What I'm Building
+### [UniBrain](https://github.com/BhargavAdithya/Unibrain-backend) — Universal Knowledge Intelligence Platform
+`FastAPI` `LangGraph` `Neo4j` `Qdrant` `PostgreSQL` `Redis` `React` `TypeScript`
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+A production-shaped RAG platform that lets an organization ingest heterogeneous documents (PDF, DOCX, Excel, CSV, scanned images via OCR) and query them through conversational chat, semantic search, and a live knowledge graph. The backend runs a multi-stage retrieval pipeline — section-heading match, broad semantic search, sub-query expansion, and full-document fallback — followed by a reranker before a LangGraph agent workflow generates the final answer, so retrieval quality doesn't collapse into a single vector-similarity lookup. Entities and relations extracted from documents are stored in Neo4j for graph-based exploration alongside the vector store in Qdrant. Two-role access model (Super Admin / Viewer) with a themeable React + TypeScript frontend.
+Backend: [Unibrain-backend](https://github.com/BhargavAdithya/Unibrain-backend) · Frontend: [Unibrain-frontend](https://github.com/BhargavAdithya/Unibrain-frontend)
 
-### ✨ *Transforming Ideas Into Intelligent Solutions* ✨
+### [TalentScout](https://github.com/BhargavAdithya/TALENTSCOUT) — AI-Powered Technical Interview Platform
+`FastAPI` `Streamlit` `PostgreSQL` `Groq API (Llama 3.3 70B)`
 
-</div>
+An automated technical-interview system that generates scenario-based questions tailored to a candidate's declared tech stack and adjusts difficulty based on how they're performing, rather than running a fixed question bank. Answers are scored across weighted criteria (technical accuracy, depth, clarity, practical application) instead of a single pass/fail signal. Because unsupervised online interviews are trivial to cheat on, the platform also enforces its own integrity: live camera monitoring, fullscreen enforcement, blocked dev-tools/shortcuts, and a violation-strike system. Deployed and live at [talentscout-frontend.onrender.com](https://talentscout-frontend.onrender.com).
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+### [LandCover AI](https://github.com/BhargavAdithya/lulc-dl) — Sentinel-2 Land Cover Segmentation
+`PyTorch` `U-Net` `FastAPI` `React` `HuggingFace`
 
-### 🧠 AI That Thinks
-```python
-# Building intelligent systems that learn & adapt
-model.train(real_world_data)
-model.predict(future_possibilities)
-```
-Creating neural networks, machine learning pipelines, and deep learning models that solve complex problems. From computer vision to NLP, bringing AI to life! 🤖
+A full-stack geospatial app that takes a raw Sentinel-2 multispectral `.TIF` image and segments every pixel into one of six land-cover classes. The model consumes a 16-channel input — the 13 native Sentinel-2 bands plus computed NDVI, NDWI, and NDBI spectral indices — and uses sliding-window inference to process full-size satellite tiles without downsampling them into uselessness. Model weights and training details are published separately on [HuggingFace](https://huggingface.co/bhargav37/lulc-dl-model), with the app live at [landcover-frontend.vercel.app](https://landcover-frontend.vercel.app). This extends directly on the change-detection work from my Springer publication — same spectral-index foundations, applied to pixel-wise deep learning segmentation instead of threshold-based classification.
 
-</td>
-<td width="50%" valign="top">
+### [My AI Persona](https://github.com/BhargavAdithya/My-AI-Persona) — Autonomous Voice & Chat Agent
+`FastAPI` `Vapi` `Deepgram` `Gemini 2.5 Flash` `ChromaDB` `Calendly API`
 
-### 🌐 Web That Wows
-```javascript
-// Crafting experiences users love
-const magic = creativity + code;
-render(<BeautifulUI />);
-```
-Building stunning full-stack applications with React, Node.js, and modern frameworks. Responsive designs that work flawlessly across all devices! 💫
+A RAG-grounded agent — reachable by phone call or chat — that answers questions about my background using a retrieval pipeline built from my resume, GitHub repos, and commit history, and can autonomously book an interview slot through the Calendly API with no human in the loop. Built as two coordinated FastAPI services (voice and chat) sharing one retrieval backend, with the voice side wired through Vapi for telephony and Deepgram for speech-to-text. Evaluated on hallucination rate, retrieval precision, and latency rather than shipped untested.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### [FloraVision](https://github.com/BhargavAdithya/floravision) — Plant Storefront
+`Next.js 14` `App Router` `Tailwind CSS`
 
-### 📊 Data That Speaks
-```r
-# Turning numbers into insights
-insights <- analyze(raw_data)
-visualize(compelling_stories)
-```
-Transforming massive datasets into actionable insights through advanced analytics and beautiful visualizations. Making data tell its story! 📈
+A responsive plant-storefront frontend built on the Next.js App Router with server-side rendering and optimized font loading (`next/font`) to avoid layout shift. Smaller in scope than the projects above — included as evidence of clean component architecture and attention to frontend performance fundamentals, not just backend/ML work.
 
-</td>
-<td width="50%" valign="top">
+---
 
-### ☁️ Cloud That Scales
-```bash
-# Deploying solutions that grow
-$ deploy --platform=cloud
-$ scale --to=infinity
-```
-Building robust, scalable infrastructure on AWS and GCP. Microservices, APIs, and cloud-native solutions that handle millions of requests! 🚀
+## Experience
 
-</td>
-</tr>
-</table>
+**Research and Development Intern** — IIT Tirupati, PNT Research Labs *(Jul 2025 – Nov 2025)*
+Built end-to-end PyTorch pipelines training CNN and Transformer-based models to 90%+ accuracy across 10 classes on large-scale imagery datasets; improved generalization by 15% through custom data augmentation and feature selection.
 
-<div align="center">
+**Software & Robotics Intern** — India Space Lab *(Jun 2025 – Jul 2025)*
+Built an AI-based autonomous navigation system for a drone platform with ~92% obstacle-avoidance accuracy in simulation, implementing A* and RRT* path planning with real-time sensor fusion across SolidWorks, ROS, and Gazebo.
 
-**💡 Always Learning • 🚀 Always Building • 🌟 Always Innovating**
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Research
 
-</div>
+**"Change Detection Using Multispectral Remote Sensing for Urban Monitoring"**
+International Conference on Signal Processing and Integrated Networks (SPIN), Springer Nature Singapore, 2025 — co-authored, on multispectral satellite change detection using spectral indices, the same foundation later applied in the LandCover AI project above.
+
+---
+
+## Education
+
+**B.Tech in Information Technology** — Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada *(2022 – 2026)*
+
+---
+
+## Certifications
+
+AWS Certified Cloud Practitioner (AWS) · Programming Essentials in Python (Cisco) · Joy of Computing Using Python (NPTEL)
 
 ---
 
 <div align="center">
 
-### Show some ❤️ by starring some repositories!
+[LinkedIn](https://linkedin.com/in/chandu-bhargav-adithya-5752792a0) · [Email](mailto:bhargavshorinryu03@gmail.com)
 
 </div>
