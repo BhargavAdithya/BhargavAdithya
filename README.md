@@ -26,13 +26,11 @@
 
 ## About
 
-B.Tech in Information Technology graduate (VR Siddhartha Engineering College, 2022–2026) building full-stack applications with AI/ML systems embedded in them — not bolted on top. Comfortable across the stack: FastAPI/Flask and Node.js on the backend, React/Next.js on the frontend, and PyTorch/TensorFlow/LangChain for the model and RAG layers in between.
+B.Tech in Information Technology graduate (2022–2026) building full-stack applications with AI/ML integrated into the core product—not added as an afterthought.
 
-Research experience in deep learning for satellite imagery (published at Springer's SPIN 2025), an internship building autonomous navigation for a drone platform, and a stack of self-directed projects that go from raw idea to deployed product — trained models, working APIs, and live URLs, not just notebooks.
+Experienced with FastAPI, Flask, Node.js, React, Next.js, PyTorch, TensorFlow, and LangChain, with hands-on work across backend systems, frontend development, model development, and RAG pipelines.
 
-As a fresher, I bring hands-on, end-to-end delivery experience rather than years on the job: every project below is designed, built, and deployed by me alone, which means I've had to make (and live with) real architecture and trade-off decisions, not just follow a spec.
-
-**Open to:** AI/ML Engineer · Full-Stack Developer · Software Engineer (Entry-Level) roles.
+I build projects end-to-end—from architecture and model development to APIs, deployment, and production-ready applications.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0369A1,100:1E293B&height=2&width=100%25" width="100%"/>
 
@@ -146,35 +144,6 @@ A responsive plant-storefront frontend built on the Next.js App Router with serv
 **Live:** [floravision-iota.vercel.app](https://floravision-iota.vercel.app)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0369A1,100:1E293B&height=2&width=100%25" width="100%"/>
-
-## Experience
-
-**Research and Development Intern** — IIT Tirupati, PNT Research Labs <sub>*Jul 2025 – Nov 2025*</sub>
-Built end-to-end PyTorch pipelines training CNN and Transformer-based models to 90%+ accuracy across 10 classes on large-scale imagery datasets; improved generalization by 15% through custom data augmentation and feature selection.
-
-**Software & Robotics Intern** — India Space Lab <sub>*Jun 2025 – Jul 2025*</sub>
-Built an AI-based autonomous navigation system for a drone platform with ~92% obstacle-avoidance accuracy in simulation, implementing A* and RRT* path planning with real-time sensor fusion across SolidWorks, ROS, and Gazebo.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0369A1,100:1E293B&height=2&width=100%25" width="100%"/>
-
-## Research
-
-**"Change Detection Using Multispectral Remote Sensing for Urban Monitoring"**
-International Conference on Signal Processing and Integrated Networks (SPIN), Springer Nature Singapore, 2025 — co-authored, on multispectral satellite change detection using spectral indices, the same foundation later applied in the LandCover AI project above.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0369A1,100:1E293B&height=2&width=100%25" width="100%"/>
-
-## Education
-
-**B.Tech in Information Technology** — Velagapudi Ramakrishna Siddhartha Engineering College, Vijayawada <sub>*2022 – 2026*</sub>
-
-## Certifications
-
-<p>
-<img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Programming_Essentials_in_Python-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Joy_of_Computing_Using_Python-NPTEL-orange?style=flat-square"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,100:1E293B&height=100&section=footer" width="100%"/>
 
