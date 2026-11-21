@@ -67,7 +67,7 @@ I build projects end-to-end—from architecture and model development to APIs, d
 
 ## Selected Projects
 
-### 🧠 [UniBrain](https://github.com/BhargavAdithya/Unibrain-backend) — Universal Knowledge Intelligence Platform
+### 🧠 [UniBrain](https://github.com/BhargavAdithya/unibrain) — Universal Knowledge Intelligence Platform
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -80,8 +80,6 @@ I build projects end-to-end—from architecture and model development to APIs, d
 </p>
 
 A production-shaped RAG platform that lets an organization ingest heterogeneous documents (PDF, DOCX, Excel, CSV, scanned images via OCR) and query them through conversational chat, semantic search, and a live knowledge graph. The backend runs a multi-stage retrieval pipeline — section-heading match, broad semantic search, sub-query expansion, and full-document fallback — followed by a reranker before a LangGraph agent workflow generates the final answer, so retrieval quality doesn't collapse into a single vector-similarity lookup. Entities and relations extracted from documents are stored in Neo4j for graph-based exploration alongside the vector store in Qdrant. Two-role access model (Super Admin / Viewer) with a themeable React + TypeScript frontend.
-
-**Repos:** [Backend](https://github.com/BhargavAdithya/Unibrain-backend) · [Frontend](https://github.com/BhargavAdithya/Unibrain-frontend)
 
 ---
 
