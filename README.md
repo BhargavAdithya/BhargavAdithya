@@ -129,20 +129,6 @@ A full-stack geospatial app that takes a raw Sentinel-2 multispectral `.TIF` ima
 
 A RAG-grounded agent — reachable by phone call or chat — that answers questions about my background using a retrieval pipeline built from my resume, GitHub repos, and commit history, and can autonomously book an interview slot through the Calendly API with no human in the loop. Built as two coordinated FastAPI services (voice and chat) sharing one retrieval backend, with the voice side wired through Vapi for telephony and Deepgram for speech-to-text. Evaluated on hallucination rate, retrieval precision, and latency rather than shipped untested.
 
----
-
-### 🌿 [FloraVision](https://github.com/BhargavAdithya/floravision) — Plant Storefront
-
-<p>
-<img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/App_Router-38B2AC?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-</p>
-
-A responsive plant-storefront frontend built on the Next.js App Router with server-side rendering and optimized font loading (`next/font`) to avoid layout shift. Smaller in scope than the projects above — included as evidence of clean component architecture and attention to frontend performance fundamentals, not just backend/ML work.
-
-**Live:** [floravision-iota.vercel.app](https://floravision-iota.vercel.app)
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0369A1,100:1E293B&height=2&width=100%25" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,100:1E293B&height=100&section=footer" width="100%"/>
